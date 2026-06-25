@@ -1,0 +1,6 @@
+{
+  "name": "appel",
+  "description": "منصة ذكية وآمنة لسكربت التفاحة - Apple of Fortune predictions",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
